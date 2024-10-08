@@ -1,7 +1,10 @@
 Ich bin eine Ganz neue datei
 ich auch
+<<<<<<< HEAD
 line 3
 S;sfj'kdsam'pdsmcspodcpowmc
 Kranplätze müssen verdichtet werden!
 
-dadfasfaref
+
+Hallo vom Süden!!! Tom
+
